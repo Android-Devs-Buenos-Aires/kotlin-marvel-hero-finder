@@ -1,3 +1,13 @@
+# Android Devs Buenos Aires
+
+Repositorio relacionado al evento **Introducción a Kotlin Flow** realizado el 6 de Agosto de 2020.
+
+ - _Evento:_ [Introducción a Kotlin Flow](https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/events/272188461/)
+ - _Presentación:_ [Slides](https://speakerdeck.com/devpicon/introduccion-a-kotlin-flow)
+ - _Video_: [YouTube](https://www.youtube.com/watch?v=q-rYc6ZneV0)
+
+### Descripción original del Repositorio:
+
 # Kotlin Marvel Character Directory
 Un proyecto de ejemplo escrito enteramente con Kotlin
 
